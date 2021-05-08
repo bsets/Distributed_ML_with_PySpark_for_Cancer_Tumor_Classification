@@ -1,2 +1,11 @@
-Add description and list of files.
+This folder contains the files for performing distributed Pointwise Mutual Information computation using PySpark for mutations of the BRCA1 gene discussed in the 264 research papers 
+associated with this gene. Keep all these files in the same folder when running the Jupyter notebook. 
+
+The files are:
+1. PMI_Computation_BRCA1_Gene.ipynb : This is the Jupyter notebook that has the complete code for the computation
+2. list_of_docs_BRCA1.csv : This is the list of BRCA1 gene mutations and their classes. 
+3. training_text_BRCA1.txt : This text file contains the combined literature of 264 papers, each associated with one mutation of the BRCA1 gene.These papers have been 
+taken from the training dataset provided by the Kaggle Competition organizers.
+
+
 
