@@ -1,1 +1,11 @@
-Description
+This folder contains files for classifying tumor gene mutations using Multinomial Logistic Regression in Spark MLlib. Please make sure that all these files are 
+in the same folder before you run the Jupyter notebook and change the directory paths in the code to the location where you have these files.
+
+The files present in this folder are:
+
+1. Distributed_MLR_using_PySpark_for_Tumor_Classification.ipynb
+2. csv2libsvm1.py
+
+Please download the 2 training files - training_text and training_variants from the Kaggle Competition website (https://www.kaggle.com/c/msk-redefining-cancer-treatment/data)
+and keep them in the same folder as the 2 files mentioned above.
+
